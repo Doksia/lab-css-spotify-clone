@@ -85,6 +85,14 @@ letter-spacing: 1px;
     margin-right: 50px;
     padding-bottom: 50px;
 }
+.features{
+    text-align: center;
+}
+.grline {
+    width: 15px;
+    height: 2px;
+    background-color: #00B172;
+}
 .spoti-white {
     display: flex;
     flex-direction:row;
